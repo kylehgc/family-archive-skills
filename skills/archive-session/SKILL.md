@@ -22,7 +22,7 @@ Append to the log, newest first:
 - every request now waiting on a reply (and a row in "Waiting on someone");
 - every deploy and push, with URL and test counts;
 - every background job started, and how it ended;
-- every mistake caught, plainly, as a "Mistake" entry.
+- every mistake caught, plainly, as a "Mistake" entry, then turned into a lesson with `improve-archive-skills`.
 
 Move the matching STATUS items between Open and Done. Route private matters to their own log (for example `private/<topic>/LOG.md`, never built into the site). The owner's postal address goes in no repo file.
 
@@ -32,8 +32,9 @@ Before drafting, ordering or downloading anything, grep the log, the requests fo
 
 1. Every agent still running either finishes or writes a handoff section first (see `research-brief`).
 2. STATUS.md current; a log entry for the session; every flag an agent raised is a STATUS item.
-3. Commit if the project's rule allows it.
-4. Lead the reply with a short "what's new" list of facts, each with how sure we are, forwardable to family as is; process detail after.
+3. Go over the session's corrections, mistakes and owner reactions. For each one not yet in a skill, file or memory, run `improve-archive-skills`. Done when each one is accounted for.
+4. Commit if the project's rule allows it.
+5. Lead the reply with a short "what's new" list of facts, each with how sure we are, forwardable to family as is; process detail after.
 
 ## STATUS.md shape
 

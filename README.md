@@ -21,6 +21,7 @@ Both projects made plenty of mistakes. **[GUIDE.md](GUIDE.md)** collects the les
 | [`research-brief`](skills/research-brief/SKILL.md) | Briefs research subagents from the files rather than from memory, checks what they report, stops and recovers them safely, and runs a fresh review before publishing. |
 | [`fact-correction`](skills/fact-correction/SKILL.md) | Carries a changed fact into every page, film, translation and changelog that shows it. |
 | [`publish-check`](skills/publish-check/SKILL.md) | Builds, tests and privacy-scans the rendered site, deploys it, and checks what is actually being served. |
+| [`improve-archive-skills`](skills/improve-archive-skills/SKILL.md) | Turns each correction or mistake from archive work into a change to the right skill and to the guide, checks it is safe to publish, and syncs the copies. This keeps the skills learning. |
 
 **Project-specific** ([`project-skills/`](project-skills/)), useful as models for your own:
 
@@ -40,4 +41,10 @@ git clone https://github.com/kylehgc/family-archive-skills
 cp -r family-archive-skills/skills/* ~/.claude/skills/
 ```
 
+Or run `bash sync.sh`, which copies them into `~/.claude/skills/` and into the two archive repos. This repo is the source of truth: edit the skills here, then sync.
+
 The skills point to file names used in these two archives: `STATUS.md`, `research/LOG.md`, `documents/transcriptions/`, `METHOD.md`. Rename them to match your own layout. The archives' repositories are private, so those paths are examples only.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).

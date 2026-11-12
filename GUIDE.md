@@ -196,7 +196,7 @@ Name tracks by topic slug plus date. *(Christensen's letters ran to AA–AZ, AS2
 
 The procedures above, as Claude Code skills, are in this repo. See the [README](README.md) for what each one does and how to install them.
 
-- [`skills/`](skills/): any archive project. `archive-session`, `archive-request`, `transcribe-record`, `research-brief`, `fact-correction`, `publish-check`.
+- [`skills/`](skills/): any archive project. `improve-archive-skills`, `archive-session`, `archive-request`, `transcribe-record`, `research-brief`, `fact-correction`, `publish-check`.
 - [`project-skills/gerechter/`](project-skills/gerechter/): `film-music`, `journey-film`.
 - [`project-skills/christensen/`](project-skills/christensen/): `read-danish-register`.
 
