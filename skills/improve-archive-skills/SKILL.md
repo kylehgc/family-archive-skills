@@ -32,7 +32,7 @@ Every correction is a **lesson**. A lesson is learned once it changes the proced
 7. **Commit.**
    - In the skills repo, use a message that names the lesson.
    - In each archive repo the sync touched, follow that repo's own commit rule.
-   - Push only when the owner has said to.
+   - Push the skills repo, and the skill commits in the archive repos, straight away. The owner gave standing permission for skill updates on 12 Nov 2026. Any other push still needs him to ask.
 8. **Log it** in the project's working log, giving the lesson, the skill changed and the commit.
 
 Done when: the rule is in one skill or file, the guide has the lesson, the public text is clean, the copies are synced, and it is committed and logged.
