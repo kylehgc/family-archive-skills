@@ -17,6 +17,7 @@ description: Draft, send and log a request or enquiry to an archive, registry of
 6. **Send** only if step 2 allows it, and record the Gmail id in the file's send log. Otherwise hand the draft over and stop.
 7. **Log** in the same turn: a log entry, a "Waiting on someone" row, a STATUS item under Waiting on replies.
 8. **Later:** search for bounces (mailer-daemon, postmaster, undeliverable). Transcribe every reply in full into `<batch>-replies.md`; save forms to `requests/received/`; note "do not chase" where an archive asks for that; turn whatever a reply asks of the owner into a STATUS item.
+9. **Weigh what a reply brings before filing it.** Open the person or place file it is about and STATUS's "Most wanted" list, and write in the filing what it changes ("the first known photo of the shop", "settles the birth year"). If it fills a known gap, carry it into every file that said the gap was open (`fact-correction`) and lead the report to the owner with it. Done when the report says what is new about it, not only that it arrived.
 
 Done when: the letter is saved, sent or handed over per policy, and recorded in the request file, the log and STATUS.
 

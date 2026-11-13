@@ -38,6 +38,6 @@ Before drafting, ordering or downloading anything, grep the log, the requests fo
 
 ## STATUS.md shape
 
-`# OPEN`: 1. Owner to do; 2. Decisions waiting; 3. Waiting on replies; 4. Drafts; 5. Research to do; 6. Site and films to do; 7. Housekeeping. `# DONE`: by area.
+`# MOST WANTED` first: three to six lines naming the records or pictures the project most lacks ("any photo of the shop", "her birth entry"), so every session sees them whatever a summary dropped; strike one through when it arrives. `# OPEN`: 1. Owner to do; 2. Decisions waiting; 3. Waiting on replies; 4. Drafts; 5. Research to do; 6. Site and films to do; 7. Housekeeping. `# DONE`: by area.
 
 If something seems lost, the full transcripts are the `.jsonl` files in `~/.claude/projects/<project-dir>/`.

@@ -81,6 +81,7 @@ Long sessions are summarised, and summaries drop things. This caused more lost w
 - **Keep a send log** with Gmail ids, plus a "Not drafted, and why" list.
 - **After sending, search for bounces** (mailer-daemon, undeliverable).
 - **Transcribe every reply in full into a replies file**, and note "do not chase" where an archive asks for that.
+- **Before filing a reply, check what the archive already says about its subject.** *(Gerechter, 13 Nov: a town office sent the first photograph of the family shop ever found. It was filed as a routine reply, because "no photo of the shop" lived only in the place file, which a summary had dropped. The owner caught it. STATUS now opens with a "Most wanted" list.)*
 - **Ask the family early.** *(Christensen: 92 parishes were swept for a residence. Then one landing card from an aunt dated the crossing, and a cousin writing back was "the biggest advance in this project". `ACTIONS-FOR-THE-FAMILY.md` lists the things only a person can do.)*
 
 **Don't**
