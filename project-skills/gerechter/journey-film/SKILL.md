@@ -19,7 +19,7 @@ The rulebook is `site/style-guide.md`. Read it first; this skill is the order of
    - the house-style reference, `prototypes/_img/p3_beat1_ordinary_day.png`;
    - the hard rules: no perpetrators (only sound, their documents and the aftermath), faces in shadow or turned away, nothing game-like.
 
-   Night scenes are darkened from the day drawings. Lettering on real objects is set as type over the image, never generated. Representative places are fine; put their true sources in the credits, not on screen.
+   Night scenes are darkened from the day drawings. Lettering on real objects is set as type over the image, never generated. Representative places are fine; put their true sources in the credits, not on screen. A real photo used on screen or sent to the image model as a reference must be cleared first (public domain, a free licence, or the holder's permission): the rules are under Pictures in the style guide.
 3. **Script** in `prototypes/<name>/journey.js`: present tense, still frames changed by cut, dissolve or fade, no camera moves. Reading pace follows the style guide.
 4. **Music** with the `film-music` skill.
 5. **Wire it in.** Add the film to `FILM_PAGES` in `site/build.py`; its assets are served under `/media/`, never `/prototypes/`. Translate it to German and Hebrew (`site/tools/journey_i18n.mjs`), and keep living-person exceptions identical across all three languages.

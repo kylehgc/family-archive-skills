@@ -129,6 +129,8 @@ Long sessions are summarised, and summaries drop things. This caused more lost w
 - **Show a mockup round before building a design**, then build. *(Gerechter: the papers filters took about eight rounds in one evening when built directly. The timeline and filter mockups settled their designs quickly.)*
 - **Deploy as soon as the build and tests pass** (Gerechter rule); ask only if something looks odd.
 - **Keep prototypes off the deployed site**, and take down old preview URLs.
+- **Check every outside item's terms before it goes up, and credit it the way its holder asks.** Keep a permissions list and hold back what is not cleared; never send an uncleared photo to an image model as a reference. *(Gerechter: a terms check found about nine items on the live site that needed permission: full-page database screenshots, a whole third-party transcription, an all-rights-reserved photo in a film, commercial-host images that came via a family tree. CC BY-SA photos were credited without author or licence, and the build copied a whole image folder, which would have published a photo the town had sent without permission.)*
+- **Load nothing from other servers** (fonts, scripts): self-host them. *(Gerechter: Google Fonts passed visitors' IP addresses to Google, which a German court has ruled a data-protection breach.)*
 
 ## 8. Films and creative work (Gerechter)
 
