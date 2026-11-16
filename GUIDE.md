@@ -88,7 +88,7 @@ Long sessions are summarised, and summaries drop things. This caused more lost w
 **Don't**
 - **Don't read a general "send" as permission for specific messages.** *(Christensen, 29 Aug: "fix what we have and send" meant push the site. Three emails went out under Kyle's name.)*
 - **Never state what a living person is willing to do** unless the owner said it in those words. *(The same email told Pier 21 an aunt "is willing to talk about it". She had only agreed to share her documents.)*
-- **Don't put links in mail sent through the Gmail connector, and read every sent copy back.** *(Christensen, 12–16 Nov: all ten enquiries carried the site link. The connector had rewritten each one into a Google redirect that expired a day later, so every archive that clicked after that met a warning page. A test draft showed it wraps bare domains and HTML anchors too.)*
+- **Don't draft or send through the Gmail connector. Send from Gmail's web interface, and read every sent copy back.** *(Christensen, 12–16 Nov: all ten enquiries carried the site link. The connector had rewritten each one into a Google redirect that expired a day later, so every archive that clicked after that met a warning page. Test drafts showed it wraps bare domains and HTML anchors too. Kyle: "just use the web interface from now on".)*
 - **Don't fill CAPTCHAs, payment or identity fields.** Script the form in headed playwright-cli, then hand the window over.
 
 ## 5. Corrections
