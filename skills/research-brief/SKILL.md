@@ -7,7 +7,7 @@ Most agent errors start in the coordinator's brief: wrong coordinates, wrong dat
 
 ## Writing the brief
 
-1. **Check what exists:** the track's research or branch file, `documents/` on disk, the dead-ends lists, the log. Done when you can name what is already known and what is already ruled out.
+1. **Check what exists:** the track's research or branch file, `documents/` on disk (grep for the person's name in image filenames), the dead-ends lists, the log. Done when you can name what is already known and what is already ruled out.
 2. **Take every fact in the brief from the archive files** (birth years, references, book ids), and mark any you have not checked.
 3. The brief contains:
    - **Read first:** the method or rules file, the relevant person and branch files.
@@ -23,6 +23,7 @@ Most agent errors start in the coordinator's brief: wrong coordinates, wrong dat
 
 - Spot-check its key claims against the source: open one or two records yourself, and check whether an API ignored a filter.
 - Make every flag it raises a STATUS item; merge findings with `fact-correction`.
+- Strike what it settled from the topic file's own "Not settled" and "Still to do" lists, in the same commit. The next brief and the next archive letter are written from those lists.
 - Commit once per landed agent, with a message that is a short report, including any error of yours it caught.
 - Log the job as ended.
 

@@ -51,6 +51,7 @@ Long sessions are summarised, and summaries drop things. This caused more lost w
 
 **Do**
 - **Build the brief from the archive files, not from memory**, and check what the files and the disk already hold before writing it. *(Christensen, one day: briefs carried a census book labelled as a death register, a couple who did not exist, a record class called "untouched" that was already closed, and work another branch had done. In Gerechter, a brief gave Armin the wrong birth year.)*
+- **When an agent's finding lands, strike it from the topic's "Not settled" and "Still to do" lists.** *(Gerechter: two deaths found by one agent stayed on those lists, so a later archive letter and a later brief asked for records already on disk. The second agent noticed.)*
 - **Tell agents to verify every coordinate they are handed** (book id, page, epid, archive reference). The agents that re-derived coordinates are the ones that caught the coordinator's errors.
 - **Have agents write as they go**, after each record, to their own output file. *(Christensen: an agent that wrote as it went lost almost nothing when its stream stalled; one that saved only at the end lost a 60-call run. In Gerechter, ten readers stopped before writing anything.)*
 - **Give each track one output file** with these sections: Findings (each marked verified or reported, with a source), Documents saved, Dead ends, New leads, and "Needs browser" for sites the agent could not reach.
